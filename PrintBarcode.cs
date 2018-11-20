@@ -4,6 +4,6 @@ case "Biorepository":
 case "5301":
 	btFormat.PrintSetup.PrinterName = "CAB MACH4#15";
 	break;
-case "fake-printer":
+case "face-printer":
 	btFormat.PrintSetup.PrinterName = "CAB MACH4#FAKE";
 	break;
